@@ -1,0 +1,51 @@
+Tops career center
+Mobile App
+
+Android
+Java
+Kotlin
+
+Project
+Batch=>
+Individual=>
+------------------------------------------------
+Setup=>
+
+1)
+JDK=>Java Development Kit=>Compiler
+JRE=>Java Runtime Environment
+JVM=>Java Virtual machine
+
+OS-> 32/64
+
+JDK Download & Install
+Set the path
+C:\Program Files\Java\jdk1.8.0_191\bin
+this pc->right click->advanced system settings
+->environment variables->paste youre path
+
+open your cmd and type javac
+
+2)Eclipse:
+https://www.eclipse.org/downloads/packages/release/juno/sr2/eclipse-ide-java-developers
+
+Access Modifier:(Visibility Modifier)
+public
+private
+protected
+
+
+Static->keyword->which fixed the value
+
+shortcut->ctrl+space
+
+=>Every Program's execution is starts with main method
+
+
+
+
+
+
+
+
+
