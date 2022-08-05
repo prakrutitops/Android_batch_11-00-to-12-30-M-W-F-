@@ -1,0 +1,79 @@
+Conditions:
+
+1)if,else if,else
+2)Switch,case,break
+
+Looping:
+For
+While
+Do While
+foreach
+1)
+for(initialization;condition;incre/decre)
+{
+
+}
+
+2)
+initialization;
+
+while(condition)
+{
+	incre/decre;
+}
+
+3)
+initialization;
+
+do
+{
+	incre/decre;
+}
+while(condition);
+
+
+a=b(Assign)
+a==b
+
+b=5
+a==b
+
+oop=>Object Oriented Programming
+1)object:Any Entity which has own state and behaviour 
+ex:pen,paper etc.
+
+2)class:collection of objects
+ex:Human body
+
+
+Constructor:Method Having a same as a classname
+
+Constructor->Does not have a return type
+Method->Must have a return type
+Use->Passing the refrence
+
+Types of constructor
+1)default->does not have any arguments(parameters)
+2)parameterized->having a parameters(arguments)
+
+3)copy
+
+=>Every Program's Execution is starts with main method
+=>
+
+3)abstraction
+4)encapsulation
+5)inheritance
+6)polymorphism
+
+
+
+
+
+
+
+
+
+
+
+
