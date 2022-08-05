@@ -1,0 +1,33 @@
+7. Write a program to convert temperature from degree centigrade to
+Fahrenheit.
+
+8. Write a program to calculate sum of 5 subjects & find the percentage.
+Subject marks entered by user.
+
+9. Write a Program to show swap of two No's without using third variable.
+
+10. Write a Program to check the given number is Positive, Negative.
+
+11. Write a Program to check the given year is leap year or not.
+
+12. Write a Program to check the given number is prime or not prime.
+
+13. Write a program to find the Max number from the given three number
+using Nested If
+
+14. Write a program to find the Max number from the given three number
+using Ternary Operator
+
+17. Write Program use switch statement. Display Monday to Sunday
+
+18. Write a Program of Addition, Subtraction ,Multiplication and Division using
+Switch case.(Must Be Menu Driven)
+
+19. Write a program of to find out the Area of Triangle, Rectangle and Circle
+using If Condition.(Must Be Menu Driven)
+
+20.Create a Program to take input from user and take a username ,usersalary and userage
+if salary is greater than 50000 then print "it's good" otherwise "need progress"
+
+21. take a value from user and check number is odd or even
+
