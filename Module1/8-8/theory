@@ -1,0 +1,54 @@
+Encapsulation:Wrapping up of data or binding of data
+ex:capsule
+
+Inheritance:when one object acquire all the properties 
+and behaviour of parent class
+ex:father-son
+
+parent-child
+super-sub
+base-derived
+
+Types of Inheritance:
+1)Single
+2)Multilevel
+3)Multiple-this inheritance is not supported in java
+4)Hierarchical
+5)Hybrid
+
+Note=>You can not inherit two class at a time->Diamond Problem
+interface=>Collection of abstract methods
+abstract method=>does not have a body part
+
+Polymorphism=>Many ways to perform anything
+Types of polymorphism
+1)Method Overloading:When Method Having a same name but number of parameters are diffrent
+2)Method Overriding:When Method Having a same name as well as parameters are also same
+
+Abstraction=>Hiding internal details and showing funcitonalities
+Keywords=>
+
+
+Keywords:
+this=>Refrence Keyword
+
+static
+1)Variable
+2)Method
+3)Block
+
+final
+1)Variable
+2)Method
+3)Class
+
+super=>Call Parent class Variable
+
+
+
+
+
+
+
+
+
