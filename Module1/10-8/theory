@@ -1,0 +1,56 @@
+Total Topics upto 10-8:
+conditions
+loop
+oop
+object
+class
+abstraction
+encapsulation
+inheritance
+polymorphism
+keyword-this,static,super,final
+Exception Handling
+Exception-Errors
+Keywords:Try,Catch,Throw,Throws,Finally
+File Input/Output:
+FileOutputStream-write
+FileInputStream-read
+Serialization,Deserialization[interface-Serializable]
+
+
+-------------------------------------------------------------------------------------
+SQL
+
+
+Setup
+
+Xampp
+
+SQL:Structured query language
+Query:Coding->Database
+
+SQL->Language
+MySQL->Database
+Oracle->Database
+MoboDb->Database
+
+Types of commands in MYSQL
+1)DDL->Data definition language
+=>create,alter,drop,truncate,rename
+
+2)DML->data manipulation language
+=>insert,update,delete
+
+3)DQL->data query language
+=>select
+
+4)DCL->data control language
+=>rollback,commit
+
+JOINS
+Order
+
+
+Database->
+Table->
+
