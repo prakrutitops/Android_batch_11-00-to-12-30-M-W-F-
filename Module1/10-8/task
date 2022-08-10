@@ -1,0 +1,39 @@
+1. Read Data from file Using FileInputStream
+B35. Create a class named “PrintNumber” to print various numbers of different datatypes by creating
+different methods with the same name “printn” having a parameter for each data type.
+
+B36. Create a class to print an integer and a character with two methods having the same name but
+different sequence of the integer and the character parameters.
+For example, if the parameters of the first method are of the form (int n, char c), then that of the
+second method will be of the form (char c, int n).
+
+B37. Create a class to print the area of a square and a rectangle. The class has two methods with the
+same name but different number of parameters. The method for printing area of a rectangle has two
+parameters which are length and breadth respectively while the other method for printing area of
+square has one parameter which is side of square.
+
+B38. Create a class with a method that prints “This is a parent class” and its subclass with another
+method that prints “This is child class”. Now, create an object for each of the class and call
+1 - method of parent class by object of parent class
+2 - method of child class by object of child class
+3 - method of parent class by object of child class
+
+B40. Create a class named Rectangle with two data members length and breadth and two methods to
+print the area and perimeter of the rectangle respectively. Its constructor having parameters for
+length and breadth is used to initialize the length and breadth of the rectangle. Let class Square
+inherit the Rectangle class with its constructor having a parameter for its side (suppose s) calling the
+constructor of its parent class as ‘super (s, s)’. Print the area and perimeter of a rectangle and a
+square.
+
+B41. Write a program to print the area and perimeter of a triangle having sides of 3, 4 and 5 units by
+creating a class named ‘Triangle’ without any parameter in its constructor.
+
+B26. W.A.J. P to demonstrate try catch block, Take two numbers from the user and perform the
+division operation and handle Arithmetic Exception.
+
+I1. W.A.J.P to read 10 integer values using Scanner class from keyboard. Generate the exception if
+the entered value is less than 10 and or greater than 40. Program should display appropriate message
+as and when this exception occurs otherwise it will display all the entered values.
+
+I2. W.A.J.P to create the validate method that takes integer value as a parameter. If the age is less
+than 18, then throw an ArithmeticException otherwise print a message welcome to vote.
