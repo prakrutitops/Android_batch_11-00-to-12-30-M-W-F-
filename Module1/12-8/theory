@@ -1,0 +1,58 @@
+Apache-Server
+Mysql-database
+
+Query
+
+1)DDL => create,alter,drop,truncate,rename
+
+->create[you can create new things]
+  database
+  table
+
+->alter[you can modify existing col]
+  ->add col
+  ->add col after col
+  ->datatype change
+  ->rename field
+  ->drop col
+
+->rename[you can directly rename your table]
+
+->drop[you can drop table]
+
+->truncate[you can clear your entered data but structure will be as it is]
+
+
+2)DML => [insert,update,delete]
+->insert [insert new record]
+  ->single value insert
+  ->multiple value insert
+
+->update[update the record]
+  ->single update value
+
+->delete[delete the record]
+
+3)DQL => [select]
+
+->select all
+
+->select row
+
+->select col
+
+->order wise
+
+4)DCL =>[rollback,commit]
+
+
+JOIN=>
+JOIN[INNER JOIN]
+LEFT JOIN
+RIGHT JOIN
+
+
+
+
+
+  
