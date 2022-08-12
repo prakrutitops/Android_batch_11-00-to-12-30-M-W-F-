@@ -1,0 +1,33 @@
+1.create a database for school
+2.create two tables teachers and student
+
+teacher's having a column like
+t_id
+t_name
+t_subject
+t_salary
+
+student's having a column like
+s_id
+s_name
+s_std
+s_grade (int)
+
+
+add one more column with the name of t_location using alter
+
+
+chnage the s_grade datatype from int to varchar
+
+now insert 2 records in every table
+update the record
+delete the record
+
+Arrange teachers as per their salary in ascending order
+
+Arrange student as per their grade descending order
+
+JOIN two tables who is the teacher of student 
+
+
+
