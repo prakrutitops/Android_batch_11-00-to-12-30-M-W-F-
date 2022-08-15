@@ -1,0 +1,60 @@
+String:
+
+StringBuilder->Immutable->Can not Change
+StringBuffer->Mutable->Can Change
+
+Inbuilt Methods:
+
+String Declaration Ways:
+1)String Literal
+String s="Tops Technologies";
+
+2)String By New Keyword
+String s=new String("Tops Technologies");
+
+3)Character Array String
+char ch[]={'T','O','P','S'};
+String s =new String(ch);
+
+concat
+
+int->data type
+Integer->Wrapper class
+
+
+Array:Collection of items
+
+Types of Array
+1)Single Dimensional
+2)Multi Dimensional
+
+
+   0 1 2
+ 0 1 2 3
+ 1 4 5 6
+ 2 7 8 9
+
+Thread:Handle the processes
+
+2 Ways:
+
+Class
+Interface
+
+Thread Lifecycle:
+Init
+start
+run
+stop
+destroy
+
+Synchronized Thread
+
+
+
+
+
+
+
+
+
