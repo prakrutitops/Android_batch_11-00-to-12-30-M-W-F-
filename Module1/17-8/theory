@@ -1,0 +1,22 @@
+collection framework:
+collection->class+interface+package
+
+Interface:
+
+List
+ArrayList
+LinkedList
+
+Set
+Hashset
+
+Map
+HashMap
+
+Vector
+
+Stack
+
+
+
+
