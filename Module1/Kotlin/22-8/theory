@@ -1,0 +1,32 @@
+Kotlin:
+
+var and val
+
+var => You can Change value(mutable)
+
+val => You can not Change value(immutable)
+
+int id=101
+String name="shama"
+float marks=56.80
+double balance=123456.77878
+22.287948, 70.766529
+
+for(variable_name (in)  value1..value2)
+{
+
+}
+
+syntax for functions:
+1)with return type with para
+2)with return type without para
+3)with para without return type
+4)without return type and without para
+
+
+
+
+
+
+
+
