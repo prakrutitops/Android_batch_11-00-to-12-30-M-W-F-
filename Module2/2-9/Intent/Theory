@@ -1,0 +1,15 @@
+res->designing
+drawable->images[lowercase]
+layout->XML File
+mipmap->inbuilt images
+values->color,string,theme
+
+java->coding
+manifest->launching
+
+Intent:Switching from one activity to another activity
+
+Types of Intent
+1)Explicit:Switching from one activity to another activity in same app
+
+2)Implicit:Switching from one activity to another activity between diffrent app
