@@ -1,0 +1,22 @@
+step 1:Take a listview in xml file
+step 2:Create a design as per your requirement
+step 3:create a model class
+step 4:take a viewbinding
+step 5:declare and initialize list
+step 6:add constructor in model class
+step 7:add images in drawable
+step 8:add detail in list
+step 9:create an adapter class
+step 10:create a constructor in adapter class
+step 11:return detail in all files
+step 12:declare and design and components in adapter
+step 13:call adapter in kotlin file
+
+
+Food:
+
+Food image  Name
+	    price
+            rating	
+            Res.Name
+
