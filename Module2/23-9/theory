@@ -1,0 +1,14 @@
+Fragment:Multiple Screens on one activity
+
+types of fragment:
+1)static ->Launching ->XML
+2)dynamic ->Launching ->Kotlin
+
+transactions
+
+1) A to A->Intent
+2) A to F->Manager
+3) F to A->Intent
+4) F to F->Manager
+
+
