@@ -1,0 +1,16 @@
+JSON Parsing:
+
+JSON
+=>JavaScript Object Notation
+=>It's a one data changing format
+
+
+[]->jsonarray
+{}->jsonobject
+
+[{"id":"1","name":"Abhishek"},{"id":"2","name":"Shama"},{"id":"3","name":"yash"}]
+{"Details":[{"id":"1","name":"Abhishek"},{"id":"2","name":"Shama"},{"id":"3","name":"yash"}]}
+
+
+Volley
+Retrofit
