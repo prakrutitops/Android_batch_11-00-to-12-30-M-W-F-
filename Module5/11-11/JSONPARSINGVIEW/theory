@@ -1,1 +1,13 @@
 https://simplifiedcoding.net/demos/marvel/
+
+Steps:
+1)Add Volley Library in Module Build.gradle file
+2)Add Internet Permission in Manifest File
+3)Take a List or RecyclerView
+4)Create Design File
+5)Create Model Class
+6)Add View Binding in Kotlin Filr
+7)Add StringRequest Code in Kotlin File (Total 4 Parameters-> POSt, Url,Response,Error)
+8)Create an Adapter
+9)Call Adapter in Kotlin File
+
