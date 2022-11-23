@@ -1,0 +1,24 @@
+package com.example.retrofitex
+
+import retrofit2.Call
+import retrofit2.http.Field
+import retrofit2.http.FormUrlEncoded
+import retrofit2.http.GET
+import retrofit2.http.POST
+
+interface Apiinterface
+{
+    @FormUrlEncoded
+    @POST("insert.php")
+    fun insertdata
+       (
+         @Field("product_name") product_name:String,
+         @Field("product_price")  product_price:String,
+
+        ) : Call<Void>
+
+    @GET("view.php")
+    fun viewdata() : Call<List<Model>>
+
+
+}
