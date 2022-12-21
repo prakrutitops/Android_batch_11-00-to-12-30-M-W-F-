@@ -1,0 +1,46 @@
+https://www.javatpoint.com/android-interview-questions
+
+Interview:
+
+Kotlin
+
+Android studio
+Version
+SDK-33
+Andy Rubin
+Version and Update
+
+Activity Lifecycle
+Fragment Lifecycle
+
+Intent
+Fragment
+
+
+UI:
+Simple Designing
+
+Material Designing
+
+Sharedprefrence
+storage
+permission
+read,write(fileoutputstream,fileinputstream)
+sqlite->
+realm->no sql
+room db->
+
+JSON->
+API
+database+API(PHP)+JSON
+
+Social media integration
+
+
+firebase-
+realtime
+
+Service ->
+broadcast receiver->
+
+Generated signed APK
